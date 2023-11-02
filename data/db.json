@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Rocco",
+      "date": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet corrupti facere dignissimos laborum! Numquam autem inventore vel architecto nam iure id placeat? Iste, maxime nisi."
+    },
+    {
+      "id": 2,
+      "title": "Kanas",
+      "date": "September 21, 2026 12:19:36 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ametc."
+    },
+    {
+      "id": 4,
+      "title": "Supreme",
+      "date": "August 03, 2025 13:42:36 AM",
+      "body": " dignissimos laborum! Numquam autem inventore vel architecto nam consectetur adipisicing elit. Amet corrupti facere  iure id placeat? Iste,"
+    },
+    {
+      "id": 5,
+      "title": "New Post",
+      "date": "November 02, 2023 12:39:09 AM",
+      "body": "Welcome"
+    }
+  ]
+}
